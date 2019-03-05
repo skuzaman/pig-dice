@@ -3,7 +3,7 @@
 ## Description
 this application is a user interractive application programmed to generate random numbers to mimic the actions of a rolling dice and also run concurrently while two players are playing
 
-##BDD
+## BDD
 * on Roll it run function random math =random dice number 
 * on Hold running the same function run accumulate random dice number
 * on Hold still it collects the summation of values and notify winner on accumulation = 100 
