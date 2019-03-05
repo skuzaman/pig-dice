@@ -11,7 +11,12 @@ this application is a user interractive application programmed to generate rando
 
 ## Known Bugs
 some bugs you might encounter like me drawing basis from a foreign source is the use of query selectors instead of id's and classes since they only pic the first element of the specified file and any error or confusion will cause a chain effect on the js script
-
+#BDD
+|activity|           input        |                    output                       |
+|........|........................|.................................................|
+|on Roll |run function random math|              random dice number                 |
+|on Hold | same function run      |          accumulate random dice number          |
+|on Hold |    summation  values   |     notify winner on accumulation = 100         |
 ## Technologies Used
 the technologies used in this project majourly include;
 *html
